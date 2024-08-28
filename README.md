@@ -20,5 +20,5 @@ cd ApplicationDM
 ## CONTACTO
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
-Nombre: Leonel Damian Mariscal Miranda
-Email: leonel.mariscal5040@alumnos.udg.mx
+- Nombre: Leonel Damian Mariscal Miranda
+- Email: leonel.mariscal5040@alumnos.udg.mx
